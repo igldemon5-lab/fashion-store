@@ -7,7 +7,7 @@ Files:
 
 BEFORE PUBLISHING:
 1. Open index.html in a text/code editor.
-2. Find 917248002437 and replace it with your WhatsApp number including country code, digits only. Example format: 919876543210.
+2. Find 917248002437 and replace it with your WhatsApp number including country code, digits only. Example format: 248001.
 3. Edit STORE_NAME and the products array (names, categories, prices, descriptions).
 4. Replace emoji product placeholders with real product photos if you know how to edit the HTML; otherwise ask for help.
 5. Read and customize privacy/terms pages to match your actual business and local laws.
